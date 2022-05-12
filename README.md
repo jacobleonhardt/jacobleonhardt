@@ -1,5 +1,5 @@
 <h1 align="center">Hey! My friends call me Leonhardt (Lynn-heart)</h1>
-<h3 align="center">I'm a Creative Full-Stack Developer</h3>
+<h3 align="center">I'm a Creative Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
